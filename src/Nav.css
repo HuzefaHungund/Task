@@ -1,0 +1,18 @@
+.nav{
+    background-color: darkgray;
+    height: 50px;
+}
+.app{
+    margin:20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+.watch{
+    margin:20px;
+    font-size: x-large;
+    text-decoration: none;
+}
+input{
+    width: 600px;
+    height: 30px;
+}
